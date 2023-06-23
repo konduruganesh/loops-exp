@@ -1,4 +1,4 @@
-package loopif
+package comloopif
 
 func getBigNum(n1 int, n2 int) int {
 
